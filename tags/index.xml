@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Stop Beton Bernin</title>
+    <link>https://ah-clem.github.io/sbb-proto/tags/</link>
+    <description>Recent content in Tags on Stop Beton Bernin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 29 Oct 2021 18:35:34 +0200</lastBuildDate><atom:link href="https://ah-clem.github.io/sbb-proto/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>petition</title>
+      <link>https://ah-clem.github.io/sbb-proto/tags/petition/</link>
+      <pubDate>Fri, 29 Oct 2021 18:35:34 +0200</pubDate>
+      
+      <guid>https://ah-clem.github.io/sbb-proto/tags/petition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tract</title>
+      <link>https://ah-clem.github.io/sbb-proto/tags/tract/</link>
+      <pubDate>Tue, 21 Sep 2021 18:00:00 +0200</pubDate>
+      
+      <guid>https://ah-clem.github.io/sbb-proto/tags/tract/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
