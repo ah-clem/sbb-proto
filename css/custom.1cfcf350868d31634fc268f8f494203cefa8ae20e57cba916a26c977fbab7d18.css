@@ -1,0 +1,37 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+/* sbb customization */
+/* override of style.*.css */
+/* TODO: use texture-* from defined style */
+
+.jumbotron {
+    background: url('../img/cracked-concrete-texture.jpg') center center repeat;
+}
+
+.home-carousel {
+    background: url('../img/cracked-concrete-texture.jpg') center center repeat;
+}
+
+#heading-breadcrumbs {
+    background: url('../img/texture-green.png') center center repeat;
+}
+
+.bar.background-pentagon {
+    background: url('../img/texture-green.png') center center repeat;
+}
+
