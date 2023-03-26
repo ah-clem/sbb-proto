@@ -2,17 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ah-clem.github.io/sbb-proto/blog/2021/11/03/petition/</loc>
-    <lastmod>2021-11-03T05:06:47+01:00</lastmod>
+    <loc>https://ah-clem.github.io/sbb-proto/tags/1672/</loc>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/blog/2023/03/12/1672/</loc>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
   </url><url>
     <loc>https://ah-clem.github.io/sbb-proto/authors/</loc>
-    <lastmod>2021-11-17T14:52:23+01:00</lastmod>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
   </url><url>
     <loc>https://ah-clem.github.io/sbb-proto/blog/</loc>
-    <lastmod>2021-11-17T14:52:23+01:00</lastmod>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
   </url><url>
     <loc>https://ah-clem.github.io/sbb-proto/categories/</loc>
-    <lastmod>2021-11-17T14:52:23+01:00</lastmod>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/authors/collectif-1672/</loc>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/tags/michellieres/</loc>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/categories/posts/</loc>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/</loc>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/tags/</loc>
+    <lastmod>2023-03-12T15:52:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/authors/collectif-stopb%C3%A9tonbernin/</loc>
+    <lastmod>2022-02-04T13:50:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/blog/2022/02/04/reponse/</loc>
+    <lastmod>2022-02-04T13:50:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/tags/lettres/</loc>
+    <lastmod>2022-02-04T13:50:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/tags/tracts/</loc>
+    <lastmod>2022-02-04T13:50:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/blog/2022/01/14/385_signataires/</loc>
+    <lastmod>2022-01-14T13:50:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/tags/petition/</loc>
+    <lastmod>2022-01-14T13:50:23+01:00</lastmod>
+  </url><url>
+    <loc>https://ah-clem.github.io/sbb-proto/blog/2022/01/06/lettre/</loc>
+    <lastmod>2022-01-06T13:50:23+01:00</lastmod>
   </url><url>
     <loc>https://ah-clem.github.io/sbb-proto/authors/chevrier/</loc>
     <lastmod>2021-11-17T14:52:23+01:00</lastmod>
@@ -38,19 +77,7 @@
     <loc>https://ah-clem.github.io/sbb-proto/authors/piccolo/</loc>
     <lastmod>2021-11-17T14:52:23+01:00</lastmod>
   </url><url>
-    <loc>https://ah-clem.github.io/sbb-proto/categories/posts/</loc>
-    <lastmod>2021-11-17T14:52:23+01:00</lastmod>
-  </url><url>
-    <loc>https://ah-clem.github.io/sbb-proto/</loc>
-    <lastmod>2021-11-17T14:52:23+01:00</lastmod>
-  </url><url>
-    <loc>https://ah-clem.github.io/sbb-proto/tags/</loc>
-    <lastmod>2021-11-17T14:52:23+01:00</lastmod>
-  </url><url>
-    <loc>https://ah-clem.github.io/sbb-proto/authors/collectif-stopb%C3%A9tonbernin/</loc>
-    <lastmod>2021-11-03T05:06:47+01:00</lastmod>
-  </url><url>
-    <loc>https://ah-clem.github.io/sbb-proto/tags/petition/</loc>
+    <loc>https://ah-clem.github.io/sbb-proto/blog/2021/11/03/petition/</loc>
     <lastmod>2021-11-03T05:06:47+01:00</lastmod>
   </url><url>
     <loc>https://ah-clem.github.io/sbb-proto/authors/collectif-des-michelli%C3%A8res/</loc>
@@ -60,9 +87,6 @@
     <lastmod>2021-10-27T13:49:00+02:00</lastmod>
   </url><url>
     <loc>https://ah-clem.github.io/sbb-proto/blog/2021/09/21/appel/</loc>
-    <lastmod>2021-09-21T18:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://ah-clem.github.io/sbb-proto/tags/tract/</loc>
     <lastmod>2021-09-21T18:00:00+02:00</lastmod>
   </url><url>
     <loc>https://ah-clem.github.io/sbb-proto/contact/</loc>
